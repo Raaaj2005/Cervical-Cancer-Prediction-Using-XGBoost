@@ -33,7 +33,7 @@ To run this project, you will need:
    git clone https://github.com/Raaaj2005/Cervical-Cancer-Prediction-Using-XGBoost.git
 
 2. Navigate into the downloaded project folder:
-   cd your-repo-name
+   cd Cervical-Cancer-Prediction-Using-XGBoost
 
 3. Install the required dependencies:
    pip install pandas numpy scikit-learn xgboost matplotlib seaborn jupyter
